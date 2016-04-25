@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/amyhan/AndroidStudioProjects/AnimationsDemo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_info.png",
+        "source": "/Users/amyhan/AndroidStudioProjects/AnimationsDemo/app/src/main/res/drawable-hdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/Users/amyhan/AndroidStudioProjects/AnimationsDemo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/amyhan/AndroidStudioProjects/AnimationsDemo/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/amyhan/AndroidStudioProjects/AnimationsDemo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_list_remove.png",
+        "source": "/Users/amyhan/AndroidStudioProjects/AnimationsDemo/app/src/main/res/drawable-hdpi/ic_list_remove.png"
+    },
+    {
+        "merged": "/Users/amyhan/AndroidStudioProjects/AnimationsDemo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_photo.png",
+        "source": "/Users/amyhan/AndroidStudioProjects/AnimationsDemo/app/src/main/res/drawable-hdpi/ic_action_photo.png"
+    },
+    {
+        "merged": "/Users/amyhan/AndroidStudioProjects/AnimationsDemo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_new.png",
+        "source": "/Users/amyhan/AndroidStudioProjects/AnimationsDemo/app/src/main/res/drawable-hdpi/ic_action_new.png"
+    }
+]

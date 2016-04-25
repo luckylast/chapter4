@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/amyhan/AndroidStudioProjects/MemoryGame1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0eef867c6b619022834da552deb962aa03f3e7c0">
+        <dex dex="/Users/amyhan/AndroidStudioProjects/MemoryGame1/app/build/intermediates/pre-dexed/debug/instant-run_6435eac6aa1619ee02be217ff092aada912ba1b1.jar" />
+    </item>
+    <item
+        jar="/Users/amyhan/AndroidStudioProjects/MemoryGame1/app/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="402cbe3194532dc7966de5901edf635dd7ec974d">
+        <dex dex="/Users/amyhan/AndroidStudioProjects/MemoryGame1/app/build/intermediates/pre-dexed/debug/classes_68050bd208747f269ec529d1d90ba073ed3e8dea.jar" />
+    </item>
+
+</items>

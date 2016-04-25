@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Applications/Android ADT/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/amyhan/AndroidStudioProjects/SimpleRssReader-master/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_dc229fb41e4352aee0ea2812d244bc0832366645.jar" />
+    </item>
+    <item
+        jar="/Users/amyhan/AndroidStudioProjects/SimpleRssReader-master/app/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4ce6d4e2e74cce6b625110dc5acdad7a6427f9b5">
+        <dex dex="/Users/amyhan/AndroidStudioProjects/SimpleRssReader-master/app/build/intermediates/pre-dexed/debug/classes_e33f1e59e97f7f8d0ebfa7d27f12a12fa3c0b2cd.jar" />
+    </item>
+    <item
+        jar="/Users/amyhan/AndroidStudioProjects/SimpleRssReader-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3a7e948cc5c30777f5b601c8a8870b220a9bce7c">
+        <dex dex="/Users/amyhan/AndroidStudioProjects/SimpleRssReader-master/app/build/intermediates/pre-dexed/debug/instant-run_986573ece9c4361eb577f8037593bb97c6a44e02.jar" />
+    </item>
+
+</items>

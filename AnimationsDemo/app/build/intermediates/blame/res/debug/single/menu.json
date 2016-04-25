@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/amyhan/AndroidStudioProjects/AnimationsDemo/app/build/intermediates/res/merged/debug/menu/activity_crossfade.xml",
+        "source": "/Users/amyhan/AndroidStudioProjects/AnimationsDemo/app/src/main/res/menu/activity_crossfade.xml"
+    },
+    {
+        "merged": "/Users/amyhan/AndroidStudioProjects/AnimationsDemo/app/build/intermediates/res/merged/debug/menu/activity_layout_changes.xml",
+        "source": "/Users/amyhan/AndroidStudioProjects/AnimationsDemo/app/src/main/res/menu/activity_layout_changes.xml"
+    },
+    {
+        "merged": "/Users/amyhan/AndroidStudioProjects/AnimationsDemo/app/build/intermediates/res/merged/debug/menu/activity_screen_slide.xml",
+        "source": "/Users/amyhan/AndroidStudioProjects/AnimationsDemo/app/src/main/res/menu/activity_screen_slide.xml"
+    }
+]

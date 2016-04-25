@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Efragment</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonText">click</string>
+    <string name="top_text">Top Text</string>
+    <string name="bottom_textg">Bottom Textg</string>
+</resources>

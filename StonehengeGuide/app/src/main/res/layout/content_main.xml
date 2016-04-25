@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.ozwhver.eight.stonehengeguide.MainActivity">
+    <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/card_height"
+        android:layout_gravity="center"
+        card_view:cardCornerRadius="@dimen/card_corner_radius"
+        card_view:cardElevation="@dimen/card_elevation"
+        >
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="@dimen/card_padding"
+        >
+
+        <FrameLayout
+            android:layout_width="@dimen/frame_width"
+            android:layout_height="match_parent"
+            android:id="@+id/frameLayout"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            >
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="false"
+                android:id="@+id/imageView"
+                android:layout_gravity="left|center_vertical"
+                android:src="@drawable/car"/>
+        </FrameLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/title_text_view"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="@dimen/card_padding"
+            android:layout_toEndOf="@+id/frameLayout"
+            android:text="@string/title_text"
+            android:textAppearance="?android:attr/textAppearanceLarge"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/my_text_view"
+            android:layout_below="@+id/title_text_view"
+            android:layout_marginLeft="@dimen/card_padding"
+            android:layout_toEndOf="@+id/frameLayout"
+            android:text="@string/detail_text"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            />
+    </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>
